@@ -68,7 +68,7 @@ into this:
 }
 ```
 
-Reusing the RIButtonItem class from [Jiva Devoe's](http://www.random-ideas.net/) [UIAlertView+Blocks category](https://github.com/jivadevoe/UIAlertView-Blocks),
+Reusing the RIButtonItem class from [Jiva DeVoe's](https://twitter.com/JivaDeVoe) [UIAlertView+Blocks category](https://github.com/jivadevoe/UIAlertView-Blocks),
 my NSAlert+Blocks category allows for simpler management of when a button gets pressed, and is a smooth transition from iOS to Mac development.
 
 As I am just transitioning to Mac development, please feel free to [contact me](https://twitter.com/willchilcutt) or create an issue with feedback. If you need to set more than the basics of your NSAlert, all setter methods are still exposed.
