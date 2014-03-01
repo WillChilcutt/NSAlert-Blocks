@@ -1,4 +1,4 @@
-NSAlert-Blocks
+NSAlert+Blocks
 ==============
 
 Description coming soon...
