@@ -28,7 +28,6 @@
     NSAlert *alert = [[NSAlert alloc] initWithTitle:@"title"
                                      andWithMessage:@"message"
                                      andWithButtons:@[button1,button2]];
-    
     [alert showInWindow:self.window];
 }
 
