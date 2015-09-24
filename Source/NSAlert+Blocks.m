@@ -62,7 +62,9 @@ static void *kNSAlertBlocksButtonsArrayKey;
     
     RIButtonItem *button = [self.buttonsArray objectAtIndex:buttonIndex];
     
-    if (button.action)
+    [alert.window orderOut:nil];
+    
+    if (button.action != nil)
     {
         button.action();
     }
